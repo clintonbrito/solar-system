@@ -12,12 +12,11 @@
 
 body {
   background-image: url('images/background-v4.jpg');
-  backdrop-filter: blur(2px);
+  /* backdrop-filter: blur(2px); */
 }
 
 .page__text {
   font-family: 'Epilogue', sans-serif;
   font-weight: 300;
   color: white;
-  
 }

@@ -1,3 +1,23 @@
+@import url('https://fonts.cdnfonts.com/css/epilogue-2');
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+};
+
 .App {
   text-align: center;
+}
+
+body {
+  background-image: url('images/background-v4.jpg');
+  backdrop-filter: blur(2px);
+}
+
+.page__text {
+  font-family: 'Epilogue', sans-serif;
+  font-weight: 300;
+  color: white;
+  
 }

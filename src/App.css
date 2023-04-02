@@ -6,14 +6,16 @@
   padding: 0;
 }
 
+html {
+  font-size: 62.5%; /*Usar 62.5% = 10px para utilizar rem como unidade de medida */
+}
+
 .App {
   text-align: center;
 }
 
 body {
   background-image: url('images/background-v4.jpg');
-
-  /* backdrop-filter: blur(2px); */
 }
 
 .page__text {
